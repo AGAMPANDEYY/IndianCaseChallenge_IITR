@@ -7,6 +7,9 @@ The case was based on Open AI's release of GPT Builder GPT Store Go To Market (G
 ## Final Case
 The case was based on Road Frieght industry specifically Indian Truck inustry. GTM strategy for XYZ logistics and optimizing Delivery scheduling using algorithms 
 
+![image](https://github.com/user-attachments/assets/f572fe74-6770-41f2-b027-f815a9c8438a)
+
+
 ## Members involved
 
 - Moulik Gupta
